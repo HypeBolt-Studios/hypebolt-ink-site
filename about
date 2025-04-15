@@ -1,0 +1,63 @@
+<!DOCTYPE html> <html lang="en">
+<head>
+    <!-- Tab Content -->
+    <title>About Us | HypeBolt Studios</title>
+    <link rel="icon" href="/img/favicon.ico">
+    
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/nav.css">
+    
+    <!-- Javascript Scripts -->
+    <script src="https://hypebolt.ca/js/remove-fbclid.js"></script>
+    
+    <!-- Metadata -->
+    <meta name="description" content="About HypeBolt Studios">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <section class="navigation">
+        <div class="banner">
+            <img src="/img/banner.png">
+        </div>
+        <div class="navbtn">
+            <ul>
+                <a href="/"><li>Home</li></a>
+                <a class="active" href="about"><li class="active">About</li></a>
+                <a href="explore"><li>Explore</li></a>
+                <a href="studios"><li>Studios</li></a>
+            </ul>
+        </div>
+        <div class="foot">
+            <ul>
+                <li><a href="privacy-policy">Privacy Policy</a></li>
+                <li><a href="terms-of-service">Terms of Service</a></li>
+                <li><p><b>&copy;2025-Present; HypeBolt Studios</b></p></li>
+            </ul>
+    </div>
+    </section>
+    
+    <main>
+        <section class="title">
+            <h1>About Us</h1>
+            <p>Crafting Quality Entertainment</p>
+        </section>
+        <section class="txt">
+            <h1>What is HypeBolt Studios</h1>
+            <h3>What We Are</h3>
+            <p>HypeBolt Studios is a Canadian-based film studio founded by Kevin Sweet dedicated to creating visually stunning and emotionally captivating films for audiences worldwide. Our mission is to inspire audiences by delivering high-quality, engaging content that sparks imagination and encourages positive change. We produce films across various genres, including epic sci-fi adventures and heartwarming dramas.</p>
+            <h3>Our Mission</h3>
+            <p>At HypeBolt Studios, we believe that movies have the power to change lives. Our films aim to challenge audiences' perceptions and provoke thought. We aim to inspire audiences to think differently and question the world around them.</p>
+            <h3>Our Genres</h3>
+            <ul>
+                <li><b>Epic sci-fi adventures</b>: We create films that transport audiences to otherworldly realms and immerse them in captivating stories.</li>
+                <li><b>Heartwarming dramas</b>: We produce films that explore the depths of human emotion and inspire audiences to connect with the characters on screen.</li>
+                <li><b>Action-packed thrillers</b>: We create films that keep audiences on the edge of their seats and leave them craving more.</li>
+                <li><b>Comedies</b>: We produce films that make audiences laugh out loud and leave them with a smile on their faces.</li>
+            </ul>
+            <p>By producing films across such a diverse range of genres, we aim to cater to the tastes and preferences of audiences worldwide. Our films are designed to captivate and inspire, and we are committed to creating a film experience that is peak quality.</p>
+            
+        </section>
+    </main>
+</body>
+</html>

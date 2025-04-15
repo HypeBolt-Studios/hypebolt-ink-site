@@ -1,0 +1,44 @@
+<!DOCTYPE html> <html lang="en">
+<head>
+    <!-- Tab Content -->
+    <title>Privacy Policy | HypeBolt Studios</title>
+    <link rel="icon" href="/img/favicon.ico">
+    
+    <!-- CSS Stylesheets -->
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/nav.css">
+    
+    <!-- Javascript Scripts -->
+    <script src="https://hypebolt.ca/js/remove-fbclid.js"></script>
+    
+    <!-- Metadata -->
+    <meta name="description" content="The homepage of the official website of HypeBolt Studios.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <section class="navigation">
+        <div class="banner">
+            <img src="/img/banner.png">
+        </div>
+        <div class="navbtn">
+            <ul>
+                <a href="/"><li>Home</li></a>
+                <a href="about"><li>About</li></a>
+                <a href="explore"><li>Explore</li></a>
+                <a href="studios"><li>Studios</li></a>
+            </ul>
+        </div>
+        <div class="foot">
+            <ul>
+                <li><a href="privacy-policy">Privacy Policy</a></li>
+                <li><a href="terms-of-service">Terms of Service</a></li>
+                <li><p><b>&copy;2025-Present; HypeBolt Studios</b></p></li>
+            </ul>
+    </div>
+    </section>
+    
+    <main>
+        
+    </main>
+</body>
+</html>
