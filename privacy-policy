@@ -36,9 +36,45 @@
             </ul>
     </div>
     </section>
-    
+
     <main>
-        
+        <section class="title">
+            <h1>Privacy Policy</h1>
+            <p>Last Updated: April 15, 2025</p>
+        </section>
+        <section class="txt">
+              <p>This Privacy Policy describes how HypeBolt Studios collects, uses, and protects the personal information of visitors to our website and individuals who submit film pitches.</p>
+
+              <h2>1. Information We Collect</h2>
+              <ul>
+                <li><b>IP Address:</b> We automatically collect your IP address when you visit our website. This is a standard practice that allows your device to communicate with our servers and for the website to function correctly.</li>
+                <li><b>Pitch Submission Information:</b> If you submit a film pitch through our online form, we collect the information you provide, which typically includes your name, email address, and details about your film pitch.</li>
+              </ul>
+
+              <h2>2. How We Use Your Information</h2>
+              <ul>
+                <li><b>IP Address:</b> We use IP addresses for essential website operations, such as ensuring site functionality and security. We may also use IP addresses for basic website traffic analysis to understand how visitors use our site.</li>
+                <li><b>Pitch Submission Information:</b> The personal information collected through the pitch submission form (name and email address) is used to communicate with you regarding your submission. The details of your film pitch are used to evaluate its potential for development by HypeBolt Studios.</li>
+              </ul>
+
+              <h2>3. Data Retention</h2>
+              <p>We will retain your personal information only for as long as necessary to fulfill the purposes for which it was collected, or as required by applicable laws and regulations. For pitch submissions, we may retain your information for a reasonable period to allow for potential future consideration or to maintain records of submissions.</p>
+
+              <h2>4. Data Sharing</h2>
+              <p>HypeBolt Studios does not share your personal information with third parties, except as required by law or with your explicit consent.</p>
+
+              <h2>5. Security</h2>
+              <p>We take reasonable measures to protect the personal information we collect against unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of transmission over the internet or method of electronic storage is completely secure.</p>
+
+              <h2>6. Your Rights</h2>
+              <p>Depending on your location and applicable privacy laws, you may have certain rights regarding your personal information, such as the right to access, correct, or delete your data. If you have any questions or requests regarding your personal information, please contact us using the contact information provided below.</p>
+
+              <h2>7. Contact Us</h2>
+              <p>If you have any questions about this Privacy Policy or our privacy practices, please contact us at legal@hypebolt.ca.</p>
+
+              <h2>8. Updates to This Privacy Policy</h2>
+              <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page, and the date of the latest revision will be indicated at the top of the policy.</p>
+        </section>
     </main>
 </body>
 </html>
